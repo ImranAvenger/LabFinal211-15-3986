@@ -21,22 +21,22 @@ class Contact extends StatelessWidget {
               _buildExperienceTile(
                 company: "Phone",
                 icon: Icons.phone,
-                role: "018564378448",
+                role: "+8809665552222",
               ),
               _buildExperienceTile(
                 company: "Email",
                 icon: Icons.mail,
-                role: "anas15-3935@diu.edu.bd",
+                role: "imran15-3935@diu.edu.bd",
               ),
               _buildExperienceTile(
                 company: "Facebook",
                 icon: Icons.facebook,
-                role: "Rakibul Islam Anas",
+                role: "Al Imran",
               ),
               _buildExperienceTile(
                 company: "Linkedin",
                 icon: Icons.link,
-                role: "Rakibul Islam Anas",
+                role: "Al Imran",
               ),
             ],
           ),

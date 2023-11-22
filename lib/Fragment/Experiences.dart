@@ -21,14 +21,8 @@ class Experiences extends StatelessWidget {
               _buildExperienceTile(
                 company: "Fiverr",
                 icon: Icons.work,
-                role: "React Developer",
-                years: "2021 - Present",
-              ),
-              _buildExperienceTile(
-                company: "INfinity 24",
-                icon: Icons.work,
-                role: "Frontend Developer",
-                years: "2022 - 2023",
+                role: "Frontend Web Developer",
+                years: "2021 - 2022",
               ),
             ],
           ),

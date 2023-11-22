@@ -36,7 +36,7 @@ class HomeActivity extends StatelessWidget {
       child: Scaffold(
         appBar: AppBar(
           title: Text(
-            "Anas Islam",
+            "Al Imran",
             style: Theme.of(context).textTheme.titleLarge!,
           ),
           backgroundColor: Theme.of(context).primaryColor,
@@ -83,7 +83,7 @@ class HomeActivity extends StatelessWidget {
                       color: Color.fromARGB(221, 4, 22, 50)),
                   child: UserAccountsDrawerHeader(
                     accountName: const Text(
-                      "Rakibul Islam Anas",
+                      "Al Imran",
                       style: TextStyle(
                         fontSize: 20,
                         fontWeight: FontWeight.bold,
@@ -91,7 +91,7 @@ class HomeActivity extends StatelessWidget {
                       ),
                     ),
                     accountEmail: const Text(
-                      "anas15-3935@diu.edu.bd",
+                      "imran15-3935@diu.edu.bd",
                       style: TextStyle(
                         fontSize: 14,
                         color: Colors.white,

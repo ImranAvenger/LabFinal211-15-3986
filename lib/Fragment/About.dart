@@ -39,14 +39,14 @@ class About extends StatelessWidget {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: <Widget>[
                       Text(
-                        "Rakibul Islam Anas",
+                        "Al Imran",
                         style: TextStyle(
                             fontSize: 25,
                             color: Colors.white,
                             fontFamily: "Roboto"),
                       ),
                       Text(
-                        "Mern Stack developer",
+                        "Programmer | Machine Learning Enthusiast",
                         style: TextStyle(
                             fontSize: 14,
                             color: Colors.white70,
@@ -74,7 +74,7 @@ class About extends StatelessWidget {
                           width: 15,
                         ),
                         Text(
-                          "B.sc in CSE",
+                          "Bachelor Science in Computer Science and Engineering",
                           style: TextStyle(
                               fontSize: 18,
                               color: Colors.white70,
@@ -118,7 +118,7 @@ class About extends StatelessWidget {
                           width: 15,
                         ),
                         Text(
-                          "anas15-3935@diu.edu.bd",
+                          "imran15-3935@diu.edu.bd",
                           style: TextStyle(
                               fontSize: 18,
                               color: Colors.white70,
@@ -140,7 +140,7 @@ class About extends StatelessWidget {
                           width: 15,
                         ),
                         Text(
-                          "+8808594598667",
+                          "+8809665552222",
                           style: TextStyle(
                               fontSize: 18,
                               color: Colors.white70,
@@ -157,7 +157,7 @@ class About extends StatelessWidget {
               Padding(
                 padding: EdgeInsets.all(8),
                 child: Text(
-                  "I am a quick learner and a dedicated programmer with substantial web and software development expertise. I like trying out new technologies and learning.",
+                  "Passionate about the endless possibilities that machine learning unlocks, I am on a journey to explore and contribute to the exciting world of artificial intelligence. With a foundation in Computer Science and Engineering, I am driven by the curiosity to unravel the potential of data and algorithms in creating intelligent systems.",
                   style: TextStyle(
                       fontSize: 15,
                       color: Color.fromARGB(255, 255, 255, 255),
@@ -168,7 +168,7 @@ class About extends StatelessWidget {
                 height: 10,
               ),
               Text(
-                "Created By Rakibul Islam Anas",
+                "Created By Al Imran",
                 style: TextStyle(
                     fontSize: 15,
                     color: Color.fromARGB(255, 171, 206, 212),
